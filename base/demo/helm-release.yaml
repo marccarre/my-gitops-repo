@@ -16,5 +16,3 @@ spec:
         kubernetes.io/ingress.class: alb
         alb.ingress.kubernetes.io/scheme: internet-facing
       path: /
-      hosts:
-        - podinfo.local
