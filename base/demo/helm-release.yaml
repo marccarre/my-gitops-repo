@@ -10,6 +10,9 @@ spec:
     ref: 2.1.1
     path: charts/podinfo
   values:
+    service:
+      enabled: true
+      type: NodePort
     ingress:
       enabled: true
       annotations:
