@@ -13,6 +13,7 @@ spec:
     service:
       enabled: true
       type: NodePort
+      nodePort:
     ingress:
       enabled: true
       annotations:
