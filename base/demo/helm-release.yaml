@@ -18,5 +18,4 @@ spec:
       annotations:
         kubernetes.io/ingress.class: alb
         alb.ingress.kubernetes.io/scheme: internet-facing
-      hosts: []
       path: /*
