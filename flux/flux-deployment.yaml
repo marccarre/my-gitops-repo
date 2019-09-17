@@ -125,7 +125,7 @@ spec:
         # to those under the following relative paths in the git repository
         # - --git-path=subdir1,subdir2
         - --git-user=Flux
-        - --git-email=carre.marc+flux@gmail.com
+        - --git-email=carre.marc+eksctl@gmail.com
 
         # Include these two to enable git commit signing
         # - --git-gpg-key-import=/root/gpg-import
